@@ -197,6 +197,12 @@ nav.nav-w {
   color: #fff;
 }
 
+.button.is-pink {
+  background-color: #f47dff;
+  border-color: transparent;
+  color: #fff;
+}
+
 .single-feature {
   position: relative;
   z-index: 5;
